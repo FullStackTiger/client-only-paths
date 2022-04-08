@@ -1,0 +1,14 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/[...]/
+  Link: </webpack-runtime-a17963b1204b75ad86ad.js>; rel=preload; as=script
+  Link: </framework-05a8b702ba924c9b93e5.js>; rel=preload; as=script
+  Link: </app-2a20c8c06121fa5a0e2a.js>; rel=preload; as=script
+  Link: </component---src-pages-js-3fa3a49f8dcc7c4ae279.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/[...]/page-data.json>; rel=preload; as=fetch; crossorigin
